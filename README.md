@@ -24,6 +24,8 @@ This repo bolts **static-key authentication** and **per-request metering** onto 
   <img src="./metering-flow-arch.excalidraw.png" width="500">
 </p>
 
+- [Demo Video](https://drive.google.com/file/d/1GIRtKg5R1CiSY5DeFVm-gUu1wWYqeRWf/view?usp=sharing)
+
 ### Lifecycle of a successful request
 
 Here is the lifecycle of a successful request:
